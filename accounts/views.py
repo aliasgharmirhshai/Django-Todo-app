@@ -1,4 +1,3 @@
-
 from django.shortcuts import render, redirect
 from .forms import UserRegistraionForm, UserLoginForm
 from django.contrib.auth.models import User

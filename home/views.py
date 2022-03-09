@@ -1,6 +1,3 @@
-from ast import ExtSlice
-from re import L
-from turtle import title
 from django.shortcuts import render, redirect
 from .models import Todo 
 from django.contrib import messages
